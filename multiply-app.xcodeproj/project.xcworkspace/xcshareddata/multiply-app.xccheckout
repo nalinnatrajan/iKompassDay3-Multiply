@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>51F6FE36-ED3B-468D-B4F9-FB1547110CB3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>multiply-app</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4C7819563A2EFB830DD7F9E723C3CD795C82C327</key>
+		<string>https://github.com/nalinnatrajan/iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Multiply/multiply-app/multiply-app/multiply-app.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4C7819563A2EFB830DD7F9E723C3CD795C82C327</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nalinnatrajan/iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4C7819563A2EFB830DD7F9E723C3CD795C82C327</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4C7819563A2EFB830DD7F9E723C3CD795C82C327</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-development</string>
+		</dict>
+	</array>
+</dict>
+</plist>
